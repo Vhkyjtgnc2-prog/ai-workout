@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>AI 하체 홈트 루틴</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 600px;
+      margin: 40px auto;
+      line-height: 1.6;
+    }
+    h1 {
+      color: #333;
+    }
+    .box {
+      background: #f3f3f3;
+      padding: 20px;
+      border-radius: 10px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>AI가 추천하는 하체 홈트레이닝 루틴</h1>
+  <p>
+    이 웹사이트는 <strong>ChatGPT</strong>를 활용하여
+    초보자도 집에서 쉽게 따라할 수 있는
+    하체 중심 운동 루틴을 생성한 웹 콘텐츠입니다.
+  </p>
+
+  <div class="box">
+    <h2>🏋️ 오늘의 운동 루틴</h2>
+    <ul>
+      <li>워밍업 스트레칭 5분</li>
+      <li>스쿼트 15회 × 3세트</li>
+      <li>힙 브릿지 20회 × 3세트</li>
+      <li>런지 좌/우 10회 × 2세트</li>
+      <li>플랭크 30초 × 3세트</li>
+      <li>마무리 스트레칭</li>
+    </ul>
+  </div>
+
+  <p>
+    본 콘텐츠는 AI가 생성한 운동 정보를 바탕으로
+    웹 콘텐츠 제작 수업에서 배운 HTML과 CSS를 활용하여 제작되었습니다.
+  </p>
+
+</body>
+</html>
